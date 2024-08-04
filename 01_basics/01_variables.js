@@ -13,5 +13,5 @@ let coder = false
 //undefiend
 //symbol
 
-//console.log(typeof firstName);
+console.log(typeof firstName);
 
